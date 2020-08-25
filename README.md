@@ -10,7 +10,7 @@ Problem Link: https://leetcode.com/problems/two-sum/
 Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/TwoSum.py
 
 2. Merged 2 Sorted Array: 
-谁小移谁 时间：O((m+n)log(m+n))
+谁小移谁 时间：O(m+n)
 Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
 Solution: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
