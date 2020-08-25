@@ -9,12 +9,12 @@ Solutions for HackerRank & Leetcode problems in Python.
 Problem Link: https://leetcode.com/problems/two-sum/
 Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/TwoSum.py
 
-2. Merged 2 Sorted Array: 
+2. Find Median Of Two Sorted Array
 谁小移谁 时间：O(m+n)
 Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
 Solution: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
-1行代码
+1行代码 
 Solution：https://github.com/Boom-Ba/Hackerrank-Python/blob/master/FindMedianIn2SortedArray.py
 
 
