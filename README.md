@@ -1,2 +1,3 @@
 # Hackerrank-Python
-Solutions for HackerRank problems in Python.
+# LeetCode-Python
+Solutions for HackerRank & Leetcode problems in Python.
