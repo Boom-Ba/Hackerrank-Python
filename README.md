@@ -2,8 +2,8 @@
 # LeetCode-Python
 Solutions for HackerRank & Leetcode problems in Python.
 
-# Array 
-## LeetCode
+# LeetCode 
+## Array
 
 ### 1. Two Sum 
 #### Problem Link: https://leetcode.com/problems/two-sum/
@@ -17,5 +17,16 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 1行代码 
 #### Solution：https://github.com/Boom-Ba/Hackerrank-Python/blob/master/FindMedianIn2SortedArray.py
 
+# Hackerrank 
+## Linked List 
+
+### Inserting a Node Into a Sorted Doubly Linked List
+#### Problem Link: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists&h_r=next-challenge&h_v=zen
+#### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/sortedInsert.py 
+
+## Tree
+### Huffman decoding
+#### Problem Link: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
+#### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/HuffmanDecoding.py
 
 
