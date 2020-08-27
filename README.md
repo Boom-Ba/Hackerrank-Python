@@ -24,9 +24,13 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### Problem Link: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists&h_r=next-challenge&h_v=zen
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/sortedInsert.py 
 
+### Reverse Doubly Linked List:
+#### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/reverseDLL.py
+
 ## Tree
 ### Huffman decoding
 #### Problem Link: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/HuffmanDecoding.py
+
 
 
