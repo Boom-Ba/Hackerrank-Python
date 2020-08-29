@@ -23,6 +23,10 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 4.  买卖股票 Best Time Buy and Sell 
 #### Solution：https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxProfit1.py
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxProfit2.py
+
+#### 5.Max Path Sum in BT
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxPathSum.ipynb
+
 # Hackerrank 
 ## Linked List 
 ### Reverse K group In Linked List
