@@ -19,6 +19,10 @@ Solutions for HackerRank & Leetcode problems in Python.
 
 # Hackerrank 
 ## Linked List 
+### Reverse K group In Linked List
+
+#### Solution:
+#### https://github.com/Boom-Ba/Hackerrank-Python/commit/48d309fcdbfcf30dc0de9d27063c95dad7c2a3ce
 
 ### Inserting a Node Into a Sorted Doubly Linked List
 #### Problem Link: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists&h_r=next-challenge&h_v=zen
