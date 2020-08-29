@@ -17,6 +17,9 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 1行代码 
 #### Solution：https://github.com/Boom-Ba/Hackerrank-Python/blob/master/FindMedianIn2SortedArray.py
 
+#### 买卖股票 Best Time Buy and Sell 
+#### Solution：https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxProfit1.py
+#### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxProfit2.py
 # Hackerrank 
 ## Linked List 
 ### Reverse K group In Linked List
