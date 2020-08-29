@@ -24,7 +24,7 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### Solution：https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxProfit1.py
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxProfit2.py
 
-#### 5.Max Path Sum in BT
+#### 5.Max Path Sum in BT （二叉树最大路径之🈴️）
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxPathSum.ipynb
 
 # Hackerrank 
