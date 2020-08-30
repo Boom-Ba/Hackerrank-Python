@@ -27,6 +27,45 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 5.Max Path Sum in BT （二叉树最大路径之🈴️）
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxPathSum.ipynb
 
+#### 6.binary Tree Right Side View 右边视图
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/rightSideView.ipynb
+#### 7.Binary Tree Level Order Traversal 层序遍历
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/levelOrder.ipynb
+#### 8. Kth Largest Element in an Array 数组中找最大
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/findKthLargest.ipynb
+
+#### 9. 
+#### 
+
+#### 10.
+#### 
+
+#### 11. 
+#### 
+
+#### 12. Remove Duplicates from Sorted List 链表去重
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/deleteDuplicates.ipynb
+#### 13.Coin Change1 找零1⃣️
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/coinChange1.ipynb
+#### 14. Coin Change2 找零2⃣️
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/CoinChange2.ipynb
+#### 15. Lowest Common Ancestor of a Binary Tree 最小二叉树祖先
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/lowestCommonAncestor.ipynb
+#### 16. Merge 2Sorted Array合并两个排好序树组
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/Merge2SortedArray.ipynb
+#### 17. Min Stack 最小stack
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/minStack.ipynb
+
+#### 18. 
+#### 
+
+#### 19.
+#### 
+
+#### 20. 
+#### 
+
+
 # Hackerrank 
 ## Linked List 
 ### Reverse K group In Linked List
