@@ -85,5 +85,8 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### Problem Link: https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/HuffmanDecoding.py
 
-
+## STACK& Q
+### A Tale of 2 Stacks 
+#### Problem Link: 
+#### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/ATaleof2Stacks.ipynb
 
