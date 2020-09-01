@@ -34,14 +34,14 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 8. Kth Largest Element in an Array 数组中找最大
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/findKthLargest.ipynb
 
-#### 9. 
-#### 
+#### 9. Merged Range 合并区间
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/MergeIntervals.ipynb
 
-#### 10.
-#### 
+#### 10.LRU cache (put/get)
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/LRUCache.ipynb
 
-#### 11. 
-#### 
+#### 11. SpiralOrderMatrix 螺旋矩阵
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/SpiralOrderMatrix.ipynb
 
 #### 12. Remove Duplicates from Sorted List 链表去重
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/deleteDuplicates.ipynb
@@ -56,14 +56,21 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 17. Min Stack 最小stack
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/minStack.ipynb
 
-#### 18. 
-#### 
+#### 18. 前序中须构造二叉树 Preorder&Inorder
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/PreorderandInorderConstructBT.ipynb
 
-#### 19.
-#### 
+#### 19. 二进制求和
+#### Solution1: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/add2BinaryNum1.ipynb
+#### Solution2: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/add2BinaryNum2.ipynb （One line code）
+#### 20. K最小element （kth smallest element in BST）
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/KthSmallestElementinBST.ipynb
+#### 21. diameterOfBinaryTree 二叉树直径
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/diameterOfBinaryTree.ipynb
+#### 22. Merge K Sorted List (合并k个链表)
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/mergeKSortedLists.ipynb
+#### 23. ADD 2 Numbers （两数相加）
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/addTwoNumbers.ipynb
 
-#### 20. 
-#### 
 
 
 # Hackerrank 
