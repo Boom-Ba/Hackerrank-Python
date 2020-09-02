@@ -70,7 +70,12 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/mergeKSortedLists.ipynb
 #### 23. ADD 2 Numbers （两数相加）
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/addTwoNumbers.ipynb
-
+#### 24. Work Break (单词拆分)
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/wordBreak.ipynb
+#### 25. Replace Element with Current Max 替换当前最大值
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/replaceElementswithCurrMax.ipynb
+#### 26. Intersection of 2 LL (收尾相连/相交链表)
+#### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/getIntersectionNode.ipynb
 
 
 # Hackerrank 
