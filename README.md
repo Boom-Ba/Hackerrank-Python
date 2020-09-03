@@ -84,6 +84,8 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 
 #### 30. Largest Value (On each row of BT)
 #### 
+#### 30. HasCycle (circular Linked List)
+#### 
 
 # Hackerrank 
 ## Linked List 
