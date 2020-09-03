@@ -80,6 +80,8 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 
 #### 28.Next Greater Element2
 #### 
+#### 29.Next Permutation (In place manipulation)
+#### 
 
 # Hackerrank 
 ## Linked List 
