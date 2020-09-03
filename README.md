@@ -76,7 +76,10 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/replaceElementswithCurrMax.ipynb
 #### 26. Intersection of 2 LL (收尾相连/相交链表)
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/getIntersectionNode.ipynb
-
+#### 27. Next Greater Element1
+#### 
+#### 28.Next Greater Element2
+#### 
 
 # Hackerrank 
 ## Linked List 
