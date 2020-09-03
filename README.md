@@ -82,6 +82,8 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 
 #### 29.Next Permutation (In place manipulation)
 #### 
+#### 30. Largest Value (On each row of BT)
+#### 
 
 # Hackerrank 
 ## Linked List 
