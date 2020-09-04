@@ -77,15 +77,22 @@ Solutions for HackerRank & Leetcode problems in Python.
 #### 26. Intersection of 2 LL (收尾相连/相交链表)
 #### https://github.com/Boom-Ba/Hackerrank-Python/blob/master/getIntersectionNode.ipynb
 #### 27. Next Greater Element1
-#### 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/nextGreaterElement1.py
 #### 28.Next Greater Element2
-#### 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/nextGreaterElements2.py
 #### 29.Next Permutation (In place manipulation)
-#### 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/nextPermutation.ipynb
 #### 30. Largest Value (On each row of BT)
-#### 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/largestValuesOnEachRow.ipynb 
 #### 30. HasCycle (circular Linked List)
-#### 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/hasCycle.ipynb
+#### 31. climbStairs
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/climbStairs.ipynb
+#### 32. Longest Common Subsequence
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/longestCommonSubsequence.ipynb
+#### 33. SugestedProducts (Binary Search)
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/suggestedProducts.ipynb
+
 
 # Hackerrank 
 ## Linked List 
