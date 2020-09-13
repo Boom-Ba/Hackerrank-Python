@@ -3,7 +3,6 @@
 Solutions for HackerRank & Leetcode problems in Python.
 
 # LeetCode 
-## Array
 
 ## Graph 
 ### BFS:
