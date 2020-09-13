@@ -5,6 +5,23 @@ Solutions for HackerRank & Leetcode problems in Python.
 # LeetCode 
 ## Array
 
+## Graph 
+### BFS:
+### 1. ladderlength 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/ladderLength.ipynb
+### 2. ZigZag
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/zigZagTraverse.ipynb
+### 3. numIslands
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/numIslands.ipynb
+### 4.isBipartite
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/BFSisBipartite.ipynb
+
+
+### DFS:
+### 1. isBipartite 
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/isBipartite.ipynb 
+
+
 ### 1. Two Sum 
 #### Problem Link: https://leetcode.com/problems/two-sum/
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/TwoSum.py
