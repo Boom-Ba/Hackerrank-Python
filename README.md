@@ -23,6 +23,8 @@ https://github.com/Boom-Ba/Hackerrank-Python/blob/master/isBipartite.ipynb
 https://github.com/Boom-Ba/Hackerrank-Python/blob/master/GraphHasCycle.ipynb
 ### 3. Detect Cycle2
 https://github.com/Boom-Ba/Hackerrank-Python/blob/master/GraphHasCycle2.ipynb
+### 4. Water and Gate
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/WallsAndGate.py
 
 ### 1. Two Sum 
 #### Problem Link: https://leetcode.com/problems/two-sum/
