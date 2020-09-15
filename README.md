@@ -19,7 +19,10 @@ https://github.com/Boom-Ba/Hackerrank-Python/blob/master/BFSisBipartite.ipynb
 ### DFS:
 ### 1. isBipartite 
 https://github.com/Boom-Ba/Hackerrank-Python/blob/master/isBipartite.ipynb 
-
+### 2. Detect Cycle1
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/GraphHasCycle.ipynb
+### 3. Detect Cycle2
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/GraphHasCycle2.ipynb
 
 ### 1. Two Sum 
 #### Problem Link: https://leetcode.com/problems/two-sum/
