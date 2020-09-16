@@ -25,6 +25,8 @@ https://github.com/Boom-Ba/Hackerrank-Python/blob/master/GraphHasCycle.ipynb
 https://github.com/Boom-Ba/Hackerrank-Python/blob/master/GraphHasCycle2.ipynb
 ### 4. Water and Gate
 https://github.com/Boom-Ba/Hackerrank-Python/blob/master/WallsAndGate.py
+### 5. CourseSchedule 2
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/CourseSchedule2.ipynb
 
 ### 1. Two Sum 
 #### Problem Link: https://leetcode.com/problems/two-sum/
