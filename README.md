@@ -28,6 +28,9 @@ https://github.com/Boom-Ba/Hackerrank-Python/blob/master/WallsAndGate.py
 ### 5. CourseSchedule 2
 https://github.com/Boom-Ba/Hackerrank-Python/blob/master/CourseSchedule2.ipynb
 
+### Max Subarray Sum:
+https://github.com/Boom-Ba/Hackerrank-Python/blob/master/maxSubArray.ipynb
+
 ### 1. Two Sum 
 #### Problem Link: https://leetcode.com/problems/two-sum/
 #### Solution: https://github.com/Boom-Ba/Hackerrank-Python/blob/master/TwoSum.py
