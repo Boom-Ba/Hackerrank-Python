@@ -1,7 +1,4 @@
 import json
-
-
-
 def validateJsonText(jsonText):
     try:
         s=json.loads(jsonText)
